@@ -22,3 +22,5 @@
 * Any other material (including text content, images, the website source code, logos, names and trademarks) are not to be used without the explicit consent of the owner.
 * The website is powered by [Netlify](https://www.netlify.com/), [Astro](https://astro.build/) & [GitHub](https://github.com/).
 * All of the photography is provided by [Unsplash](https://unsplash.com/collections/9387655/30-seconds-of-code-images).
+
+ <script src="https://gist.github.com/amanaknows/1de0cf8803383ee24f3c77e967616b75.js"></script>
